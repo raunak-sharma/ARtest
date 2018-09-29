@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1485288734756-0b31a0a31d95?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2b2f369f46f24cbcc6c9bf8dde83b59c&w=1000&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.full {
+    min-height: 92vh;
+    background-color: rgba(209, 80, 28, 0.404);
+    
+}
+
+.mar {
+    padding-top: 36vh;
+}
+
+a{
+    color: rgb(134, 9, 9);
+}

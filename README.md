@@ -1,1 +1,1 @@
-# test
+Testing Augmented Reality with web browsers.
